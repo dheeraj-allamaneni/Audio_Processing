@@ -1,0 +1,1 @@
+The way in which i have created the PDF for both FFT and IFFT is first i have placed the code/psedo code and then in the end of that published journal/book's code i have placed the author/book/publication details.
